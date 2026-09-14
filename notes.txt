@@ -1,2 +1,1 @@
-Revising git best practises.
-// second line
+"second commit on new feature-branch" 
