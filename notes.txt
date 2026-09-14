@@ -1,3 +1,1 @@
-Revising git best practises.
-// second line
-//stash practices
+"second commit on new feature-branch" 
