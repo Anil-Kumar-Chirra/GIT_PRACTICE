@@ -1,1 +1,2 @@
-"hello"
+Revising git best practises.
+// second line
