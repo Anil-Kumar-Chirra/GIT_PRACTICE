@@ -1,2 +1,3 @@
 Revising git best practises.
 // second line
+//stash practices
